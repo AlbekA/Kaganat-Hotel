@@ -1,0 +1,6 @@
+{
+  "name": "Отель Kaganat в центре Оша — Официальный сайт",
+  "description": "Kaganat — современный бутик-отель 4★ в центре Оша. 13 номеров, завтрак-шведский стол включён, Wi-Fi, кафе, парковка. Рейтинг 4.9 на 2ГИС. Бронирование номеров от 5 500 сом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
